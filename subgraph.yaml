@@ -10,7 +10,7 @@ dataSources:
     source:
       address: "0xeD0169a88d267063184b0853BaAAAe66c3c154B2"
       abi: Finder
-      startBlock: 20185622
+      startBlock: 23200000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -32,7 +32,7 @@ dataSources:
     source:
       address: "0x489Bf230d4Ab5c2083556E394a28276C22c3B580"
       abi: VotingToken
-      startBlock: 20185622
+      startBlock: 23200000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -52,7 +52,7 @@ dataSources:
     source:
       address: "0xeF9c374b7976941fCAf5e501eaB531E430463fC6"
       abi: IdentifierWhitelist
-      startBlock: 20185622
+      startBlock: 23200000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -74,7 +74,7 @@ dataSources:
     source:
       address: "0x41AF40Eb92Bec4dD8DA77103597838b3dBBD3B6f"
       abi: Store
-      startBlock: 20185622
+      startBlock: 23200000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -101,7 +101,7 @@ dataSources:
     source:
       address: "0xf8bdAb5d675F76eD863fF9Fa35B129A6e43e71cA"
       abi: AddressWhitelist
-      startBlock: 20185622
+      startBlock: 23200000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -126,7 +126,7 @@ dataSources:
     source:
       address: "0x10E241725178991417E65fadE965Ca1F07852283"
       abi: Voting
-      startBlock: 20185622
+      startBlock: 23200000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -168,7 +168,7 @@ dataSources:
     source:
       address: "0x03fe668862a0BFa9d3706A0ebA18007464343FdD"
       abi: Voting
-      startBlock: 20185622
+      startBlock: 23200000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -210,7 +210,7 @@ dataSources:
     source:
       address: "0x7b1c04D2826B140779e2B97d5783AF05cf00Fbab"
       abi: Registry
-      startBlock: 	20185622
+      startBlock: 	23200000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
